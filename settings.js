@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94764224187",
-  SUDO_NUMBERS : "94764224187",
-  OWNER_NAME: "『 𝙼𝚁 KRISHAN 』",
+  OWNER_NUMBER: "94752021386",
+  SUDO_NUMBERS : "94705785877",
+  OWNER_NAME: "『 𝙼𝚁 RaviYa 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -27,8 +27,8 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : true,
-        GOODBYE_MESSAGE : true
+        WELCOME_MESSAGE : false,
+        GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
@@ -48,7 +48,7 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : true,
   },
